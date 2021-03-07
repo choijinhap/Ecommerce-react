@@ -1,11 +1,15 @@
+* {
+	box-sizing: border-box;
+}
 body {
 	font-family: 'Open Sans Condensed';
 	padding: 20px 60px;
 }
-a{
+a {
 	text-decoration: none;
 	color: black;
 }
+
 .App {
 	text-align: center;
 }

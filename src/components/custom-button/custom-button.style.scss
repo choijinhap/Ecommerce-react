@@ -15,4 +15,14 @@
 		color: black;
 		border: 1px solid black;
 	}
+
+	&.google-sign-in {
+		background-color: #1f86e7;
+		color: white;
+
+		&:hover {
+			background-color: #0c57b9;
+			border: none;
+		}
+	}
 }
